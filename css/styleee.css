@@ -1,0 +1,12 @@
+body {
+    background: lightblue;
+}
+dt {
+    font-style: italic;
+}
+.doge-photo {
+    max-width: 200px;
+}
+.bolded {
+    font-weight: 900;
+}
